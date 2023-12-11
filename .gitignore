@@ -1,0 +1,6 @@
+
+#ignore all .class
+*.class
+
+#ignore pdf file with the fileNAme as extention is pdf
+name.pdf
